@@ -35,17 +35,7 @@ const OUR__MEMBERS = [
     twitUrl: "#",
     linkedinUrl: "#",
     imgUrl: ava03,
-  },
-
-  {
-    name: "Jhon Doe",
-    experience: "5 years of experience",
-    fbUrl: "#",
-    instUrl: "#",
-    twitUrl: "#",
-    linkedinUrl: "#",
-    imgUrl: ava01,
-  },
+  }
 ];
 
 const OurMembers = () => {

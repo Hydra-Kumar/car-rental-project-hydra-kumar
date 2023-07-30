@@ -29,7 +29,7 @@ const PaymentMethod = () => {
 
       <div className="payment mt-3 d-flex align-items-center justify-content-between">
         <label htmlFor="" className="d-flex align-items-center gap-2">
-          <input type="radio" /> Paypal
+          <input type="radio" /> Phonepe/Gpay
         </label>
 
         <img src={paypal} alt="" />
